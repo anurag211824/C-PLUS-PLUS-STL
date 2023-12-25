@@ -5,9 +5,9 @@ using namespace std;
 void display(list<int> &a)
 {   //list<int>:: iterator iter=a.begin();
     //auto is like shortcut of getting an iterator
-    for (auto iter = a.begin(); iter != a.end(); iter++)
+    for (auto ite = a.begin(); ite != a.end(); ite++)
     {
-        cout << *iter << " ";
+        cout << *ite << " ";
     }
     cout << endl;
 }
