@@ -56,5 +56,6 @@ int main()
     //  display(anurag);
     //  anurag.pop_front();
     //  display(anurag);
+    cout<<"anurag"
     return 0;
 }
