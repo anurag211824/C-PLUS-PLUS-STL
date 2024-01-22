@@ -9,7 +9,8 @@ void printSet(set<int> &s)
     cout << endl;
 }
 int main()
-{   //1. Insert function--> It stores element in sorted and unique manner
+{   //set is stl which stores element in sorted and unique manner.
+    //1. Insert function--> It stores element in sorted and unique manner.
     set<int>s1;
     s1.insert(3);
     s1.insert(3);
