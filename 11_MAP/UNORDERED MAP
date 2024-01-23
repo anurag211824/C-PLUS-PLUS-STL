@@ -1,0 +1,2 @@
+unordered_map in STL are associative containers where each element consists of a key value 
+and a mapped value. Two mapped values cannot have the same key value. The elements can be in any order.

@@ -7,9 +7,9 @@ void printMap(map<int,int> &mp){
     }
 }
 int main(){
+
     //map in STL are associative containers where each element consists of a key value and a mapped value. 
     //Two mapped values cannot have the same key value.
-
     map<int,int> mp1;
     mp1.insert({1,10});
     mp1.insert({2,20});

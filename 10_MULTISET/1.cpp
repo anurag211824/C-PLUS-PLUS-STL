@@ -52,4 +52,7 @@ int main()
     printMultiSet(ms3);
     // ms3.erase(ms3.find(1),ms3.find(1)+2);
     // lowerbound and upper bound do not works in multiset
+
+    // An unordered set in STL is a container that stores unique elements in no particular order. 
+    // Every operation on an unordered set takes O(1) complexity in the average case and takes O(n) in the worst case.
 }
